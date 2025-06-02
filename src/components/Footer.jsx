@@ -106,7 +106,7 @@ function Footer() {
             <Button
               type="submit"
               disabled={isSubmitting}
-              className="gradient-button text-vp-dark hover:bg-vp-orange hover:text-vp-dark rounded-xl hover:scale-105 transition-all duration-300"
+              className="gradient-button text-vp-white hover:bg-vp-orange hover:text-vp-white rounded-xl hover:scale-105 transition-all duration-300"
             >
               Subscribe
             </Button>

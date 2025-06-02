@@ -48,7 +48,7 @@ function Header() {
         </nav>
         <div className="hidden md:block">
           <Button
-            className="gradient-button text-vp-dark hover:bg-vp-orange hover:text-vp-dark rounded-xl shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300 animate-on-load"
+            className="gradient-button text-vp-white hover:bg-vp-orange hover:text-vp-white rounded-xl shadow-md hover:shadow-lg hover:scale-105 transition-all duration-300 animate-on-load"
           >
             Get Started
           </Button>
