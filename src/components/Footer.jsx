@@ -69,8 +69,8 @@ function Footer() {
             className="h-10 w-auto mb-4"
           />
           <p className="text-sm leading-relaxed">
-            <a href="mailto:info@vividpulse.ai" className="hover:text-vp-pink transition-colors">info@vividpulse.ai</a><br />
-            <a href="tel:+5551234567" className="hover:text-vp-pink transition-colors">(555) 123-4567</a>
+            <a href="mailto:info@vividpulse.ai" className="hover:text-vp-pink transition-colors">info@kolg.live</a><br />
+            <a href="tel:+5551234567" className="hover:text-vp-pink transition-colors">+1-928-433-7540</a>
           </p>
         </div>
         <div className="animate-on-load px-4">
